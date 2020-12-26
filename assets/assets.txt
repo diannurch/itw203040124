@@ -1,0 +1,19 @@
+<-- slider -->
+gambar 1 : https://unsplash.com/photos/d1ngW7SNehM
+gambar 2 : https://unsplash.com/photos/fyQr1T3GE34
+gambar 3 : <a href='https://www.freepik.com/photos/background'>Background photo created by mrsiraphol - www.freepik.com</a>
+parallax : https://unsplash.com/photos/sQopSb2K0CU
+
+<-- clients -->
+gojek : dari file di youtube pak sandhika
+grab : grab.com
+
+<-- menu -->
+burger : https://unsplash.com/photos/E94j3rMcxlw
+spaghetti : https://unsplash.com/photos/TtadVut4jsg
+pizza : https://unsplash.com/photos/yDKHJxfiWDk
+sandwich : https://unsplash.com/photos/mAQZ3X_8_l0
+milkshake : https://unsplash.com/photos/uy9DJw9e_vs
+coffe : https://unsplash.com/photos/btbPO3uMz-I
+cake : https://unsplash.com/photos/t5mEUKEuiLo
+ice cream : https://unsplash.com/photos/Wpg3Qm0zaGk
